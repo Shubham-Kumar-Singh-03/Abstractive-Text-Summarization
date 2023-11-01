@@ -4,7 +4,8 @@ Abstractive Text Summarization is a technique in Natural Language Processing (NL
 
 ## Demo
 
-https://github.com/Shubham-Kumar-Singh-03/Abstractive-Text-Summarization/assets/87908011/34f5b5d7-af3f-489f-82dd-e6556315053c
+
+
 
 ## Overview
 
