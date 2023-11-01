@@ -1,24 +1,28 @@
-# Movie_Recommendation_System
-The Movie Recommendation System is a web application that provides personalized movie recommendations to users based on their search preferences. Users can receive recommendations based on specific genres they are interested in.
+# Abstractive Text Summarization
+
+Abstractive Text Summarization is a technique in Natural Language Processing (NLP) that aims to generate a concise and coherent summary of a given text while preserving its meaning and context. Unlike extractive summarization, which selects and rephrases existing sentences, abstractive summarization generates entirely new sentences to convey the essential information of the original text.
 
 ## Demo
 
-https://github.com/Shubham-Kumar-Singh-03/Movie_Recommendation_System/assets/87908011/f94827d0-1ab7-424d-b0e3-e05c2d5805ba
-
+https://github.com/Shubham-Kumar-Singh-03/Abstractive-Text-Summarization/assets/87908011/34f5b5d7-af3f-489f-82dd-e6556315053c
 
 ## Overview
-This is a Movie Recommendation System built using Python, Flask, and various Natural Language Processing (NLP) and Machine Learning (ML) techniques. It suggests movies to users based on their preferences and viewing history.
+
+This project implements an Abstractive Text Summarization system using Python, Flask, and the Hugging Face library. It leverages state-of-the-art NLP models for generating coherent summaries from input texts.
+
+The system takes a user-provided input text and processes it through the NLP model to produce a concise and meaningful summary. The generated summary is designed to capture the core message and context of the original text.
 
 ## Features
-- **Search Functionality:** Users can search for specific movies, genres, or actors to get more information about them.
-- **Recommendation Algorithm:** Utilizes NLP and ML techniques to analyze user preferences, movie metadata, and viewing history to provide personalized movie recommendations.
-- **Genre-Based Recommendations:** Users can receive recommendations based on specific genres they are interested in.
+- **Abstractive Text Summarization:** Generates concise and coherent summaries of provided input text.
+- **User-Friendly Interface:** Utilizes a Flask web application for easy interaction.
+- **Utilizes Hugging Face Models:** Leverages pre-trained models for efficient summarization.
+
 
 ## Technologies Used
-- **Python:** The primary programming language used for building the recommendation algorithm and backend logic.
-- **Flask:** A lightweight web framework used for handling HTTP requests, routing, and rendering HTML templates.
+- **Python:** The primary programming language used for building the backend logic.
 - **NLP Libraries (e.g., NLTK, spaCy):** Used for text processing to extract meaningful information from movie descriptions and user reviews.
-- **Machine Learning Libraries (e.g., scikit-learn, TensorFlow):** Used for building and training recommendation models.
+- **Hugging Face Models:** Leverages pre-trained models for efficient summarization.
+- **Flask:** A lightweight web framework used for handling HTTP requests, routing, and rendering HTML templates.
 - **HTML/CSS/JavaScript:** Used for building the user interface and handling client-side interactions.
 
 ## Contributing
